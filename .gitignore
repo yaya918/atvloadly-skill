@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+
+# 本地配置（不要上传用户的 atvloadly 地址等）
+atvloadly.local.json
+*.local.json
+
+# 打包产物
+*.zip
+dist/
+build/
